@@ -1,0 +1,560 @@
+[
+    {
+        "id": "734001558",
+        "url": "https://ridibooks.com/v2/Detail?id=734001558",
+        "title": "아가미",
+        "writers": [
+            "구병모"
+        ],
+        "price": 9100
+    },
+    {
+        "id": "111016277",
+        "url": "https://ridibooks.com/v2/Detail?id=111016277",
+        "title": "소오강호 세트",
+        "writers": [
+            "김용"
+        ],
+        "price": 58500
+    },
+    {
+        "id": "754025297",
+        "url": "https://ridibooks.com/v2/Detail?id=754025297",
+        "title": "디디의 우산",
+        "writers": [
+            "황정은"
+        ],
+        "price": 9800
+    },
+    {
+        "id": "1670000008",
+        "url": "https://ridibooks.com/v2/Detail?id=1670000008",
+        "title": "개정판 | 왜 나는 너를 사랑하는가",
+        "writers": [
+            "알랭 드 보통"
+        ],
+        "price": 8400
+    },
+    {
+        "id": "371001188",
+        "url": "https://ridibooks.com/v2/Detail?id=371001188",
+        "title": "자기 앞의 생",
+        "writers": [
+            "에밀 아자르"
+        ],
+        "price": 9100
+    },
+    {
+        "id": "120039327",
+        "url": "https://ridibooks.com/v2/Detail?id=120039327",
+        "title": "해바라기가 피지 않는 여름",
+        "writers": [
+            "미치오 슈스케"
+        ],
+        "price": {
+            "대여": 2000,
+            "구매": 8400
+        }
+    },
+    {
+        "id": "509001113",
+        "url": "https://ridibooks.com/v2/Detail?id=509001113",
+        "title": "태엽 감는 새 연대기",
+        "writers": [
+            "무라카미 하루키"
+        ],
+        "price": 9800
+    },
+    {
+        "id": "372001321",
+        "url": "https://ridibooks.com/v2/Detail?id=372001321",
+        "title": "오베라는 남자",
+        "writers": [
+            "프레드릭 배크만"
+        ],
+        "price": {
+            "대여": 4830,
+            "구매": 8700
+        }
+    },
+    {
+        "id": "371000546",
+        "url": "https://ridibooks.com/v2/Detail?id=371000546",
+        "title": "연금술사",
+        "writers": [
+            "파울로 코엘료"
+        ],
+        "price": 6700
+    },
+    {
+        "id": "1818003513",
+        "url": "https://ridibooks.com/v2/Detail?id=1818003513",
+        "title": "메이드 인 강남",
+        "writers": [
+            "주원규"
+        ],
+        "price": 9100
+    },
+    {
+        "id": "593000684",
+        "url": "https://ridibooks.com/v2/Detail?id=593000684",
+        "title": "화이트 래빗",
+        "writers": [
+            "이사카 고타로"
+        ],
+        "price": 9600
+    },
+    {
+        "id": "371001303",
+        "url": "https://ridibooks.com/v2/Detail?id=371001303",
+        "title": "쇼코의 미소",
+        "writers": [
+            "최은영"
+        ],
+        "price": 8400
+    },
+    {
+        "id": "754025313",
+        "url": "https://ridibooks.com/v2/Detail?id=754025313",
+        "title": "연쇄 살인마 개구리 남자의 귀환",
+        "writers": [
+            "나카야마 시치리",
+            "김윤수"
+        ],
+        "price": 8400
+    },
+    {
+        "id": "734001567",
+        "url": "https://ridibooks.com/v2/Detail?id=734001567",
+        "title": "파과",
+        "writers": [
+            "구병모"
+        ],
+        "price": 9800
+    },
+    {
+        "id": "175000092",
+        "url": "https://ridibooks.com/v2/Detail?id=175000092",
+        "title": "당신 거기 있어 줄래요?",
+        "writers": [
+            "기욤 뮈소"
+        ],
+        "price": 6000
+    },
+    {
+        "id": "593000733",
+        "url": "https://ridibooks.com/v2/Detail?id=593000733",
+        "title": "마이너리티 리포트",
+        "writers": [
+            "필립 킨 드레드 딕"
+        ],
+        "price": 13800
+    },
+    {
+        "id": "1176001620",
+        "url": "https://ridibooks.com/v2/Detail?id=1176001620",
+        "title": "밤하늘은 올려다보는 그대에게 상냥하게",
+        "writers": [
+            "마쿠라기 미루타"
+        ],
+        "price": 9000
+    },
+    {
+        "id": "372003444",
+        "url": "https://ridibooks.com/v2/Detail?id=372003444",
+        "title": "우리와 당신들",
+        "writers": [
+            "프레드릭 배크만"
+        ],
+        "price": 11700
+    },
+    {
+        "id": "509000862",
+        "url": "https://ridibooks.com/v2/Detail?id=509000862",
+        "title": "보건교사 안은영",
+        "writers": [
+            "정세랑"
+        ],
+        "price": 9100
+    },
+    {
+        "id": "754018214",
+        "url": "https://ridibooks.com/v2/Detail?id=754018214",
+        "title": "채식주의자",
+        "writers": [
+            "한강"
+        ],
+        "price": 8400
+    },
+    {
+        "id": "593000732",
+        "url": "https://ridibooks.com/v2/Detail?id=593000732",
+        "title": "매드",
+        "writers": [
+            "클로이 에스포지토"
+        ],
+        "price": {
+            "대여": 700,
+            "구매": 11000
+        }
+    },
+    {
+        "id": "1570000121",
+        "url": "https://ridibooks.com/v2/Detail?id=1570000121",
+        "title": "메리 수를 죽이고",
+        "writers": [
+            "오츠이치",
+            "나카타 에이이치"
+        ],
+        "price": 8640
+    },
+    {
+        "id": "509000964",
+        "url": "https://ridibooks.com/v2/Detail?id=509000964",
+        "title": "82년생 김지영",
+        "writers": [
+            "조남주"
+        ],
+        "price": 9100
+    },
+    {
+        "id": "754023366",
+        "url": "https://ridibooks.com/v2/Detail?id=754023366",
+        "title": "위저드 베이커리",
+        "writers": [
+            "구병모"
+        ],
+        "price": 8960
+    },
+    {
+        "id": "2378000160",
+        "url": "https://ridibooks.com/v2/Detail?id=2378000160",
+        "title": "셜록홈즈",
+        "writers": [
+            "아서 코난 도일"
+        ],
+        "price": null
+    },
+    {
+        "id": "682000783",
+        "url": "https://ridibooks.com/v2/Detail?id=682000783",
+        "title": "다섯 번째 계절",
+        "writers": [
+            "N. K. 제미신"
+        ],
+        "price": {
+            "대여": 5500,
+            "구매": 9900
+        }
+    },
+    {
+        "id": "754024947",
+        "url": "https://ridibooks.com/v2/Detail?id=754024947",
+        "title": "옥상에서 만나요",
+        "writers": [
+            "정세랑"
+        ],
+        "price": 9100
+    },
+    {
+        "id": "754025481",
+        "url": "https://ridibooks.com/v2/Detail?id=754025481",
+        "title": "퍼스트 러브",
+        "writers": [
+            "시마모토 리오"
+        ],
+        "price": 8100
+    },
+    {
+        "id": "111015075",
+        "url": "https://ridibooks.com/v2/Detail?id=111015075",
+        "title": "펭귄클래식 세계문학 50권 세트(이성 편)",
+        "writers": [
+            "조지 오웰"
+        ],
+        "price": 66000
+    },
+    {
+        "id": "1570000131",
+        "url": "https://ridibooks.com/v2/Detail?id=1570000131",
+        "title": "합리적 의심",
+        "writers": [
+            "도진기"
+        ],
+        "price": 8640
+    },
+    {
+        "id": "593000730",
+        "url": "https://ridibooks.com/v2/Detail?id=593000730",
+        "title": "마력의 태동",
+        "writers": [
+            "히가시노 게이고"
+        ],
+        "price": 10000
+    },
+    {
+        "id": "111015076",
+        "url": "https://ridibooks.com/v2/Detail?id=111015076",
+        "title": "펭귄클래식 세계문학 50권 세트(감성 편)",
+        "writers": [
+            "쥘 베른"
+        ],
+        "price": 66000
+    },
+    {
+        "id": "371001720",
+        "url": "https://ridibooks.com/v2/Detail?id=371001720",
+        "title": "마당이 있는 집",
+        "writers": [
+            "김진영"
+        ],
+        "price": 9700
+    },
+    {
+        "id": "3769000001",
+        "url": "https://ridibooks.com/v2/Detail?id=3769000001",
+        "title": "거울로 드나드는 여자",
+        "writers": [
+            "크리스텔 다보스"
+        ],
+        "price": 10620
+    },
+    {
+        "id": "3566000003",
+        "url": "https://ridibooks.com/v2/Detail?id=3566000003",
+        "title": "절대정의",
+        "writers": [
+            "아키요시 리카코"
+        ],
+        "price": 9800
+    },
+    {
+        "id": "111013136",
+        "url": "https://ridibooks.com/v2/Detail?id=111013136",
+        "title": "문예춘추사 셜록 홈즈 전집 세트",
+        "writers": [
+            "아서 코난 도일"
+        ],
+        "price": 9900
+    },
+    {
+        "id": "593000426",
+        "url": "https://ridibooks.com/v2/Detail?id=593000426",
+        "title": "나미야 잡화점의 기적",
+        "writers": [
+            "히가시노 게이고"
+        ],
+        "price": 10000
+    },
+    {
+        "id": "862000952",
+        "url": "https://ridibooks.com/v2/Detail?id=862000952",
+        "title": "유년기의 끝",
+        "writers": [
+            "아서 C. 클라크"
+        ],
+        "price": 8820
+    },
+    {
+        "id": "682000777",
+        "url": "https://ridibooks.com/v2/Detail?id=682000777",
+        "title": "종이 동물원",
+        "writers": [
+            "켄 리우"
+        ],
+        "price": 9900
+    },
+    {
+        "id": "1570000130",
+        "url": "https://ridibooks.com/v2/Detail?id=1570000130",
+        "title": "애프터 다크",
+        "writers": [
+            "무라카미 하루키"
+        ],
+        "price": 8190
+    },
+    {
+        "id": "606001829",
+        "url": "https://ridibooks.com/v2/Detail?id=606001829",
+        "title": "당신이 남긴 증오",
+        "writers": [
+            "앤지 토머스"
+        ],
+        "price": 10500
+    },
+    {
+        "id": "682000626",
+        "url": "https://ridibooks.com/v2/Detail?id=682000626",
+        "title": "애거서 크리스티 A to Z",
+        "writers": [
+            "황금가지 편집부"
+        ],
+        "price": null
+    },
+    {
+        "id": "862000953",
+        "url": "https://ridibooks.com/v2/Detail?id=862000953",
+        "title": "개정판 | 멋진 징조들",
+        "writers": [
+            "테리 프래쳇",
+            "닐 게이먼"
+        ],
+        "price": 11000
+    },
+    {
+        "id": "606001760",
+        "url": "https://ridibooks.com/v2/Detail?id=606001760",
+        "title": "야시",
+        "writers": [
+            "쓰네카와 고타로"
+        ],
+        "price": 6300
+    },
+    {
+        "id": "510000690",
+        "url": "https://ridibooks.com/v2/Detail?id=510000690",
+        "title": "아르테미스",
+        "writers": [
+            "앤디 위어"
+        ],
+        "price": 10500
+    },
+    {
+        "id": "111014943",
+        "url": "https://ridibooks.com/v2/Detail?id=111014943",
+        "title": "빨간 머리 앤 전권 세트",
+        "writers": [
+            "루시 모드 몽고메리"
+        ],
+        "price": 78400
+    },
+    {
+        "id": "175000108",
+        "url": "https://ridibooks.com/v2/Detail?id=175000108",
+        "title": "아가씨와 밤",
+        "writers": [
+            "기욤 뮈소"
+        ],
+        "price": 10000
+    },
+    {
+        "id": "754019549",
+        "url": "https://ridibooks.com/v2/Detail?id=754019549",
+        "title": "피프티 피플",
+        "writers": [
+            "정세랑"
+        ],
+        "price": 8400
+    },
+    {
+        "id": "606001185",
+        "url": "https://ridibooks.com/v2/Detail?id=606001185",
+        "title": "탐정클럽",
+        "writers": [
+            "히가시노 게이고"
+        ],
+        "price": 8960
+    },
+    {
+        "id": "111016892",
+        "url": "https://ridibooks.com/v2/Detail?id=111016892",
+        "title": "히가시노 게이고 9권 세트",
+        "writers": [
+            "히가시노 게이고"
+        ],
+        "price": 83300
+    },
+    {
+        "id": "754012650",
+        "url": "https://ridibooks.com/v2/Detail?id=754012650",
+        "title": "소년이 온다",
+        "writers": [
+            "한강"
+        ],
+        "price": 8400
+    },
+    {
+        "id": "2119000061",
+        "url": "https://ridibooks.com/v2/Detail?id=2119000061",
+        "title": "돌이킬 수 있는",
+        "writers": [
+            "문목하"
+        ],
+        "price": {
+            "대여": 2000,
+            "구매": 10000
+        }
+    },
+    {
+        "id": "1013000004",
+        "url": "https://ridibooks.com/v2/Detail?id=1013000004",
+        "title": "돌이킬 수 없는 약속",
+        "writers": [
+            "야쿠마루 가쿠"
+        ],
+        "price": 11000
+    },
+    {
+        "id": "3566000004",
+        "url": "https://ridibooks.com/v2/Detail?id=3566000004",
+        "title": "기억 파단자",
+        "writers": [
+            "고바야시 야스미"
+        ],
+        "price": 9800
+    },
+    {
+        "id": "509000042",
+        "url": "https://ridibooks.com/v2/Detail?id=509000042",
+        "title": "인생의 베일",
+        "writers": [
+            "서머셋 모옴"
+        ],
+        "price": 6300
+    },
+    {
+        "id": "593000658",
+        "url": "https://ridibooks.com/v2/Detail?id=593000658",
+        "title": "그대 눈동자에 건배",
+        "writers": [
+            "히가시노 게이고"
+        ],
+        "price": 10000
+    },
+    {
+        "id": "371001483",
+        "url": "https://ridibooks.com/v2/Detail?id=371001483",
+        "title": "바깥은 여름",
+        "writers": [
+            "김애란"
+        ],
+        "price": 9100
+    },
+    {
+        "id": "754020527",
+        "url": "https://ridibooks.com/v2/Detail?id=754020527",
+        "title": "아몬드",
+        "writers": [
+            "손원평"
+        ],
+        "price": 8400
+    },
+    {
+        "id": "754022521",
+        "url": "https://ridibooks.com/v2/Detail?id=754022521",
+        "title": "연쇄 살인마 개구리 남자",
+        "writers": [
+            "나카야마 시치리"
+        ],
+        "price": 8400
+    },
+    {
+        "id": "204000008",
+        "url": "https://ridibooks.com/v2/Detail?id=204000008",
+        "title": "개정판 | 론리하트",
+        "writers": [
+            "김언희"
+        ],
+        "price": 5000
+    }
+]
